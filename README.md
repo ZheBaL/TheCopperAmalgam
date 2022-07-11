@@ -1,2 +1,2 @@
 # TheCopperAmalgam
-The Copper Amalgam, a mod for Terraria using tModLoader
+The Copper Amalgam, a mod for Terraria using tModLoader.
